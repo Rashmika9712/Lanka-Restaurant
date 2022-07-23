@@ -1,0 +1,610 @@
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\Abby.DataAccess.deps.json
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\Abby.DataAccess.runtimeconfig.json
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\Abby.DataAccess.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\Abby.DataAccess.pdb
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Server.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Web.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cors.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Features.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Results.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpLogging.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Identity.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Metadata.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Rewrite.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Session.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebSockets.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.CSharp.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Memory.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Json.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.Extensions.Features.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.Extensions.Http.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Core.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Stores.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Console.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Debug.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.Extensions.ObjectPool.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.Extensions.Primitives.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.Extensions.WebEncoders.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.JSInterop.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.Net.Http.Headers.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.VisualBasic.Core.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.VisualBasic.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.Win32.Primitives.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.Win32.Registry.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\mscorlib.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\netstandard.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.AppContext.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Buffers.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Collections.Concurrent.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Collections.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Collections.Immutable.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Collections.NonGeneric.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Collections.Specialized.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.ComponentModel.Annotations.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.ComponentModel.DataAnnotations.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.ComponentModel.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.ComponentModel.EventBasedAsync.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.ComponentModel.Primitives.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.ComponentModel.TypeConverter.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Configuration.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Console.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Core.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Data.Common.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Data.DataSetExtensions.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Data.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Diagnostics.Contracts.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Diagnostics.Debug.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Diagnostics.DiagnosticSource.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Diagnostics.EventLog.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Diagnostics.FileVersionInfo.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Diagnostics.Process.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Diagnostics.StackTrace.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Diagnostics.Tools.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Diagnostics.TraceSource.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Diagnostics.Tracing.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Drawing.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Drawing.Primitives.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Dynamic.Runtime.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Formats.Asn1.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Globalization.Calendars.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Globalization.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Globalization.Extensions.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.IO.Compression.Brotli.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.IO.Compression.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.IO.Compression.FileSystem.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.IO.Compression.ZipFile.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.IO.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.IO.FileSystem.AccessControl.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.IO.FileSystem.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.IO.FileSystem.DriveInfo.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.IO.FileSystem.Primitives.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.IO.FileSystem.Watcher.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.IO.IsolatedStorage.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.IO.MemoryMappedFiles.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.IO.Pipelines.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.IO.Pipes.AccessControl.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.IO.Pipes.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.IO.UnmanagedMemoryStream.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Linq.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Linq.Expressions.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Linq.Parallel.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Linq.Queryable.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Memory.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Net.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Net.Http.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Net.Http.Json.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Net.HttpListener.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Net.Mail.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Net.NameResolution.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Net.NetworkInformation.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Net.Ping.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Net.Primitives.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Net.Requests.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Net.Security.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Net.ServicePoint.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Net.Sockets.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Net.WebClient.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Net.WebHeaderCollection.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Net.WebProxy.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Net.WebSockets.Client.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Net.WebSockets.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Numerics.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Numerics.Vectors.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.ObjectModel.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Reflection.DispatchProxy.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Reflection.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Reflection.Emit.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Reflection.Emit.ILGeneration.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Reflection.Emit.Lightweight.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Reflection.Extensions.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Reflection.Metadata.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Reflection.Primitives.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Reflection.TypeExtensions.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Resources.Reader.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Resources.ResourceManager.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Resources.Writer.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.VisualC.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Runtime.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Runtime.Extensions.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Runtime.Handles.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Runtime.InteropServices.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Runtime.Intrinsics.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Runtime.Loader.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Runtime.Numerics.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Runtime.Serialization.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Runtime.Serialization.Formatters.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Runtime.Serialization.Json.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Runtime.Serialization.Primitives.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Runtime.Serialization.Xml.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Security.AccessControl.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Security.Claims.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Security.Cryptography.Algorithms.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Security.Cryptography.Cng.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Security.Cryptography.Csp.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Security.Cryptography.Encoding.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Security.Cryptography.OpenSsl.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Security.Cryptography.Primitives.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Security.Cryptography.X509Certificates.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Security.Cryptography.Xml.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Security.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Security.Principal.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Security.Principal.Windows.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Security.SecureString.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.ServiceModel.Web.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.ServiceProcess.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Text.Encoding.CodePages.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Text.Encoding.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Text.Encoding.Extensions.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Text.Encodings.Web.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Text.Json.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Text.RegularExpressions.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Threading.Channels.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Threading.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Threading.Overlapped.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Threading.Tasks.Dataflow.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Threading.Tasks.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Threading.Tasks.Extensions.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Threading.Tasks.Parallel.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Threading.Thread.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Threading.ThreadPool.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Threading.Timer.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Transactions.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Transactions.Local.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.ValueTuple.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Web.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Web.HttpUtility.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Windows.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Xml.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Xml.Linq.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Xml.ReaderWriter.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Xml.Serialization.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Xml.XDocument.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Xml.XmlDocument.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Xml.XmlSerializer.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Xml.XPath.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Xml.XPath.XDocument.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\WindowsBase.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\obj\Debug\net6.0\Abby.DataAccess.csproj.AssemblyReference.cache
+F:\Proj\ASP\Abby\Abby.DataAccess\obj\Debug\net6.0\Abby.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+F:\Proj\ASP\Abby\Abby.DataAccess\obj\Debug\net6.0\Abby.DataAccess.AssemblyInfoInputs.cache
+F:\Proj\ASP\Abby\Abby.DataAccess\obj\Debug\net6.0\Abby.DataAccess.AssemblyInfo.cs
+F:\Proj\ASP\Abby\Abby.DataAccess\obj\Debug\net6.0\Abby.DataAccess.csproj.CoreCompileInputs.cache
+F:\Proj\ASP\Abby\Abby.DataAccess\obj\Debug\net6.0\Abby.DataAccess.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\obj\Debug\net6.0\refint\Abby.DataAccess.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\obj\Debug\net6.0\Abby.DataAccess.pdb
+F:\Proj\ASP\Abby\Abby.DataAccess\obj\Debug\net6.0\Abby.DataAccess.genruntimeconfig.cache
+F:\Proj\ASP\Abby\Abby.DataAccess\obj\Debug\net6.0\ref\Abby.DataAccess.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\Abby.Models.dll
+F:\Proj\ASP\Abby\Abby.DataAccess\bin\Debug\net6.0\Abby.Models.pdb
+F:\Proj\ASP\Abby\Abby.DataAccess\obj\Debug\net6.0\Abby.DataAccess.csproj.CopyComplete
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\Abby.DataAccess.deps.json
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\Abby.DataAccess.runtimeconfig.json
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\Abby.DataAccess.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\Abby.DataAccess.pdb
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Server.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Web.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cors.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Features.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Results.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpLogging.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Identity.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Metadata.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Rewrite.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Session.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebSockets.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.CSharp.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Memory.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Json.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.Extensions.Features.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.Extensions.Http.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Core.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Stores.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Console.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Debug.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.Extensions.ObjectPool.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.Extensions.Primitives.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.Extensions.WebEncoders.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.JSInterop.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.Net.Http.Headers.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.VisualBasic.Core.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.VisualBasic.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.Win32.Primitives.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\Microsoft.Win32.Registry.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\mscorlib.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\netstandard.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.AppContext.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Buffers.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Collections.Concurrent.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Collections.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Collections.Immutable.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Collections.NonGeneric.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Collections.Specialized.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.ComponentModel.Annotations.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.ComponentModel.DataAnnotations.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.ComponentModel.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.ComponentModel.EventBasedAsync.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.ComponentModel.Primitives.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.ComponentModel.TypeConverter.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Configuration.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Console.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Core.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Data.Common.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Data.DataSetExtensions.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Data.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Diagnostics.Contracts.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Diagnostics.Debug.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Diagnostics.DiagnosticSource.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Diagnostics.EventLog.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Diagnostics.FileVersionInfo.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Diagnostics.Process.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Diagnostics.StackTrace.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Diagnostics.Tools.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Diagnostics.TraceSource.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Diagnostics.Tracing.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Drawing.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Drawing.Primitives.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Dynamic.Runtime.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Formats.Asn1.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Globalization.Calendars.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Globalization.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Globalization.Extensions.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.IO.Compression.Brotli.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.IO.Compression.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.IO.Compression.FileSystem.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.IO.Compression.ZipFile.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.IO.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.IO.FileSystem.AccessControl.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.IO.FileSystem.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.IO.FileSystem.DriveInfo.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.IO.FileSystem.Primitives.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.IO.FileSystem.Watcher.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.IO.IsolatedStorage.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.IO.MemoryMappedFiles.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.IO.Pipelines.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.IO.Pipes.AccessControl.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.IO.Pipes.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.IO.UnmanagedMemoryStream.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Linq.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Linq.Expressions.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Linq.Parallel.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Linq.Queryable.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Memory.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Net.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Net.Http.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Net.Http.Json.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Net.HttpListener.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Net.Mail.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Net.NameResolution.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Net.NetworkInformation.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Net.Ping.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Net.Primitives.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Net.Requests.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Net.Security.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Net.ServicePoint.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Net.Sockets.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Net.WebClient.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Net.WebHeaderCollection.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Net.WebProxy.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Net.WebSockets.Client.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Net.WebSockets.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Numerics.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Numerics.Vectors.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.ObjectModel.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Reflection.DispatchProxy.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Reflection.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Reflection.Emit.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Reflection.Emit.ILGeneration.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Reflection.Emit.Lightweight.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Reflection.Extensions.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Reflection.Metadata.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Reflection.Primitives.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Reflection.TypeExtensions.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Resources.Reader.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Resources.ResourceManager.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Resources.Writer.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.VisualC.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Runtime.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Runtime.Extensions.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Runtime.Handles.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Runtime.InteropServices.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Runtime.Intrinsics.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Runtime.Loader.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Runtime.Numerics.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Runtime.Serialization.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Runtime.Serialization.Formatters.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Runtime.Serialization.Json.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Runtime.Serialization.Primitives.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Runtime.Serialization.Xml.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Security.AccessControl.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Security.Claims.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Security.Cryptography.Algorithms.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Security.Cryptography.Cng.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Security.Cryptography.Csp.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Security.Cryptography.Encoding.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Security.Cryptography.OpenSsl.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Security.Cryptography.Primitives.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Security.Cryptography.X509Certificates.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Security.Cryptography.Xml.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Security.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Security.Principal.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Security.Principal.Windows.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Security.SecureString.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.ServiceModel.Web.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.ServiceProcess.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Text.Encoding.CodePages.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Text.Encoding.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Text.Encoding.Extensions.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Text.Encodings.Web.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Text.Json.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Text.RegularExpressions.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Threading.Channels.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Threading.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Threading.Overlapped.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Threading.Tasks.Dataflow.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Threading.Tasks.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Threading.Tasks.Extensions.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Threading.Tasks.Parallel.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Threading.Thread.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Threading.ThreadPool.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Threading.Timer.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Transactions.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Transactions.Local.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.ValueTuple.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Web.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Web.HttpUtility.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Windows.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Xml.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Xml.Linq.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Xml.ReaderWriter.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Xml.Serialization.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Xml.XDocument.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Xml.XmlDocument.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Xml.XmlSerializer.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Xml.XPath.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\System.Xml.XPath.XDocument.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\refs\WindowsBase.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\Abby.Models.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\bin\Debug\net6.0\Abby.Models.pdb
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\obj\Debug\net6.0\Abby.DataAccess.csproj.AssemblyReference.cache
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\obj\Debug\net6.0\Abby.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\obj\Debug\net6.0\Abby.DataAccess.AssemblyInfoInputs.cache
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\obj\Debug\net6.0\Abby.DataAccess.AssemblyInfo.cs
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\obj\Debug\net6.0\Abby.DataAccess.csproj.CoreCompileInputs.cache
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\obj\Debug\net6.0\Abby.DataAccess.csproj.CopyComplete
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\obj\Debug\net6.0\Abby.DataAccess.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\obj\Debug\net6.0\refint\Abby.DataAccess.dll
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\obj\Debug\net6.0\Abby.DataAccess.pdb
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\obj\Debug\net6.0\Abby.DataAccess.genruntimeconfig.cache
+F:\Complete Projects\Lanka Reataurants\Abby\Abby.DataAccess\obj\Debug\net6.0\ref\Abby.DataAccess.dll
